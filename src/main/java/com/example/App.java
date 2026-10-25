@@ -8,6 +8,6 @@ public class App {
 
     public static void main(String[] args) {
         System.out.println("Welcome to Jenkins CI/CD");
-        System.out.println("Sum = " + add(10, 20));
+        System.out.println("Sum = " + add(20, 30));
     }
 }
